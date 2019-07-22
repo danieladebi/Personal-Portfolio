@@ -10,7 +10,7 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 _Developed in July 2019_
 
 #### Description 
-This program is a neural network that is able to identify poker hands with over 99% accuracy. 
+This program is a neural network that is able to identify poker hands with over 99% accuracy. (99.6% was my best model)
 #### Reason for Development 
 This is was the first time I created a neural network without following any tutorials online, and I was also curious to see how neural networks could guess 
 
