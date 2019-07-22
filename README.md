@@ -6,7 +6,7 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 ## My Projects 
 
 ### Poker Hand Classifier - July 2019
-![Poker Hand](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjnlKv0o8njAhVo1lkKHdbnC04QjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.pokerstars.com%252Fpoker%252Fgames%252Frules%252Fhand-rankings%252F%26psig%3DAOvVaw1J1OetcxGX5WSkZLlzGsmN%26ust%3D1563910792606981&psig=AOvVaw1J1OetcxGX5WSkZLlzGsmN&ust=1563910792606981)
+![Poker Hand](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjxofGupcnjAhVSpFkKHXvyD-gQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.pokerstars.com%252Fpoker%252Fgames%252Frules%252Fhand-rankings%252F%26psig%3DAOvVaw1J1OetcxGX5WSkZLlzGsmN%26ust%3D1563910792606981&psig=AOvVaw1J1OetcxGX5WSkZLlzGsmN&ust=1563910792606981)
 #### Description 
 This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.62% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points total to train and test the data. 
 #### Reason For Development 
