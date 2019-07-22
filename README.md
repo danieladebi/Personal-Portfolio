@@ -1,5 +1,5 @@
-# Personal-Project
-Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 2022, majoring in Computer Science and Physics. This is my portfolio of projects I've worked on over the years.
+# Daniel's Portfolio
+Hello! My name is Ikechukwu Daniel Adebi (preferred name, Daniel), and I am a member of MIT's class of 2022, majoring in Computer Science and Physics. This is my portfolio of projects I've worked on over the years.
 ### Poker Hand Classifier
 __Developed in July 2019__
 - This program is a neural network that is able to identify poker hands with over 99% accuracy. 
