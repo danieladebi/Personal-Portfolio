@@ -7,7 +7,7 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 ## My Projects 
 
 ### Poker Hand Classifier 
-_Developed in July 2019_
+**_Developed in July 2019_**
 
 #### Description 
 This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.62% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points total to train and test the data. 
