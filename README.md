@@ -1,4 +1,4 @@
-# Daniel's Portfolio
+# Daniel's Software Portfolio
 Hello! My name is Ikechukwu Daniel Adebi (preferred name, Daniel), and I am a member of MIT's class of 2022, majoring in Computer Science and Physics. This is my portfolio of projects I've worked on over the years.
 ### Poker Hand Classifier
 __Developed in July 2019__
