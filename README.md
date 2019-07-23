@@ -19,7 +19,6 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 ### Quantum Machine Learning Model 
 <br />
 <p align="center">
-  <img src="yahoo_finance.png" alt="YF" width="200" />
   <img src="ibm.png" alt="IBM" width="250" />  
 </p>
 
@@ -46,6 +45,7 @@ While this model was generally very accurate, and accurate for more common hands
 
 ### Stock Predictor 
 <p align="center">
+  <img src="yahoo_finance.png" alt="YF" width=200" />
   <img src="stocks.PNG" alt="Stocks" width="500" />  
 </p>
 
