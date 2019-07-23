@@ -23,7 +23,7 @@ This project was an assignment I received during my time interning with IBM as a
 #### Room For Improvement
 The amount of data I used was very small (only a bit more than 300 datapoints), so my model was not very accurate (~70% accuracy was the best I achieved). Despite the amount of research I put into this project, I still had very little experience with quantum computing and almost no experience with machine learning going into this project, but I ended up learning a lot about both fields through this project so I'm pretty happy with my result.
 
-[Back to Top](#List-of-Projects)
+[Back to Projects](#List-of-Projects)
 
 ### Poker Hand Classifier 
 <p align="center"><img src="10h-9d-8s-6c-2h.png" alt="Your image title" width="400" /> </p>
@@ -35,7 +35,7 @@ This is was the first time I created a neural network without following any tuto
 #### Room For Improvement
 While this model was generally very accurate, and accurate for more common hands (i.e. one pair, two pairs, etc.), this model was much less accurate for more rare hands like four of a kind, or a straight flush, or even just straights in general. This is most likely because the dataset I used was not evenly distributed, so if I were to make this project again, I would prolly try and get an evenly distributed amount of each hand type, so my neural network could classify the rarer hands more accurately. I'm still continuing the process of collecting data from this project to see what else can be improved upon.
 
-[Back to Top](#List-of-Projects)
+[Back to Projects](#List-of-Projects)
 
 ### Stock Predictor 
 #### Description
@@ -45,7 +45,7 @@ Well, besides trying to get rich fast, I wanted to learn how to work with and pr
 #### Room For Improvement
 This model was rather difficult to determine how accurate it was, considering that it decided to hold stock shares for the majority of the timeline. And when the model made the decision to buy or sell, it usually made the right choice, but there were occasions where it would miss major profits, and some stocks resulted in negative returns altogether. If I could remake this model, I would probably focus on a few stocks (or even just one) at a time, and train the model to maximize returns for those stocks only rather than trying to go for 500 at once.
 
-[Back to Top](#List-of-Projects)
+[Back to Projects](#List-of-Projects)
 
 ### SSA Game Engine
 #### Description
@@ -54,7 +54,7 @@ This model was rather difficult to determine how accurate it was, considering th
 
 #### Room For Improvement
 
-[Back to Top](#List-of-Projects)
+[Back to Projects](#List-of-Projects)
 
 ### Chemistry Teaching Tool
 #### Description
@@ -63,4 +63,4 @@ This model was rather difficult to determine how accurate it was, considering th
 
 #### Room For Improvement
 
-[Back to Top](#List-of-Projects)
+[Back to Projects](#List-of-Projects)
