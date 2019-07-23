@@ -64,7 +64,7 @@ I developed a 3D game engine for an independent study I did in my senior year of
 #### Reason For Develepment
 The independent study was called "Simulation Software Analysis", or SSA, because for the entire year, I studied different types of simulation software. I decided to make a game engine in particular because at the time, most of my programming was for video game purposes, and I wanted to learn more about the environments I would be developing in. 
 #### Room For Improvement
-I feel that I could have made the engine more intuitive and simpler to use.
+I feel that I could have made the engine more intuitive and simpler to use, because as of right now, while I feel that I did a pretty good job at structuring and organizing my code, I may have condensed processes like rendering to a point where there isn't much flexibility or freedom to change much about its process.
 
 [Back to Projects](#List-of-Projects)
 
