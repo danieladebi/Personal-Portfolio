@@ -17,7 +17,7 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 
 ## Projects 
 ### Quantum Machine Learning Model 
-<p align="center"><img src="ibm.png" alt="Your image title" width="400" /> </p>
+<p align="center"><img src="ibm.jpg" alt="Your image title" width="400" /> </p>
 #### Description
 This program is a quantum support vector machine that runs on IBM's QASM simulator, where QASM is a programming language for formally defining a quantum systems. This model takes in breast cancer data from the years 1958-1970 and determines whether or not someone lived more than 5 years after they have been diagnosed. This program uses the Qiskit library to run, and the survival date comes from UCI's machine learning repository.
 #### Reason For Develepment
@@ -28,8 +28,7 @@ The amount of data I used was very small (only a bit more than 300 datapoints), 
 [Back to Projects](#List-of-Projects)
 
 ### Poker Hand Classifier 
-<p align="center"><img src="10h-9d-8s-6c-2h.png" alt="Your image title" width="400" /> </p>
-
+<img src="10h-9d-8s-6c-2h.png" alt="Your image title" width="400" />
 #### Description 
 This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.62% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points total to train and test the data. 
 #### Reason For Development 
