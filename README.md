@@ -8,7 +8,7 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 
 |Project Name | Language | Brief Description | Duration |
 |:-----------:|:----------:|------------|:-----------:|
-|[Quantum Machine Learning Model]| Python | A support vector machine that runs on a virtual quantum system. This is my side project for IBM. | June 2019 - July 2019 |
+|[Quantum Machine Learning Model](#Quantum-Machine-Learning-Model)| Python | A support vector machine that runs on a virtual quantum system. This is my side project for IBM. | June 2019 - July 2019 |
 |[Poker Hand Classifier](#Poker-Hand-Classifier) | Python | Neural network that classifies different poker hands.| July 2019 |
 |[Stock Predictor](#Stock-Predictor) | Python | Machine Learning model that predicts stock prices.| June 2019 | 
 |[SSA Game Engine](#SSA-Game-Engine) | Java | Game Engine I developed from scratch (w/ Tutorial Help). | January 2018 - April 2018 |
@@ -18,7 +18,7 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 
 ### Quantum Machine Learning Model
 #### Description
-
+This program is a quantum support vector machine that runs on IBM's QASM simulator, where QASM is a programming language for formally defining a quantum systems. This model takes in breast cancer data from the years 1958-1970 and determines whether or not someone lived more than 5 years after they have been diagnosed. This program uses the Qiskit library to run. 
 #### Reason For Develepment
 
 #### Room For Improvement
@@ -41,7 +41,7 @@ This is a machine learning model that takes in the prices of each stock in the S
 Well, besides trying to get rich fast, I wanted to learn how to work with and process time-series data. While I don't have the strongest interest in finance, I do find stocks to be rather interesting, so I decided to see what I could do trying to predict them. 
 #### Room For Improvement
 This model was rather difficult to determine how accurate it was, considering that it decided to hold stock shares for the majority of the timeline. And when the model made the decision to buy or sell, it usually made the right choice, but there were occasions where it would miss major profits, and some stocks resulted in negative returns altogether. If I could remake this model, I would probably focus on a few stocks (or even just one) at a time, and train the model to maximize returns for those stocks only rather than trying to go for 500 at once.
-
+ 
 ### SSA Game Engine
 #### Description
 
