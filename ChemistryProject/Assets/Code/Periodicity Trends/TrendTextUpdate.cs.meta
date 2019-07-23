@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 438143dafc4ff493581852a925917fe8
+timeCreated: 1503774752
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - trendExplanationText: {instanceID: 0}
+  - IEAtoms: {fileID: 1569169514793848, guid: 75a908095066d45aead98d7a9cada2ae, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

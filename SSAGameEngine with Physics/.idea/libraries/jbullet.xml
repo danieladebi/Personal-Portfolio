@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jbullet">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/jbullet.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/vecmath.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$USER_HOME$/Desktop/jbullet.jar!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Desktop/vecmath.jar!/" recursive="false" />
+  </library>
+</component>

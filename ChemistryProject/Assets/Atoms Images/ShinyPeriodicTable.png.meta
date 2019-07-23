@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: 2a96b3376b24e4a13bcedcf22260fcee
+timeCreated: 1497310055
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Nonmetal_H
+    21300002: TransitionMetals
+    21300004: AlkaliMetals
+    21300006: AlkalineEarthMetals
+    21300008: PoorMetals
+    21300010: Metalloids
+    21300012: Nonmetals
+    21300014: Halogens
+    21300016: NobleGases
+    21300018: ShinyPeriodicTable_9
+    21300020: Lanthanides
+    21300022: ShinyPeriodicTable_11
+    21300024: Actinides
+    21300026: AlkaliButton
+    21300028: AlkalineEarthButton
+    21300030: TransitionButton
+    21300032: PoorMetalButton
+    21300034: MetalloidButton
+    21300036: NonmetalButton
+    21300038: HalogenButton
+    21300040: NobleGasButton
+    21300042: LanthanideButton
+    21300044: ActinideButton
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nonmetal_H
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2569
+        width: 205
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TransitionMetals
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2043
+        width: 2100
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AlkaliMetals
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1083
+        width: 212
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AlkalineEarthMetals
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1083
+        width: 212
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PoorMetals
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 912
+        width: 837
+        height: 1047
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Metalloids
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 896
+        width: 840
+        height: 1046
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nonmetals
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 1815
+        width: 627
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Halogens
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 1083
+        width: 207
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NobleGases
+      rect:
+        serializedVersion: 2
+        x: 4652
+        y: 1083
+        width: 215
+        height: 1464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShinyPeriodicTable_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 582
+        width: 207
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lanthanides
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 585
+        width: 3145
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShinyPeriodicTable_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 289
+        width: 207
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Actinides
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 292
+        width: 3145
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AlkaliButton
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 82
+        width: 205
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AlkalineEarthButton
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 82
+        width: 205
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TransitionButton
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 82
+        width: 206
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PoorMetalButton
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 79
+        width: 205
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalloidButton
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 82
+        width: 205
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NonmetalButton
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 82
+        width: 205
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HalogenButton
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 82
+        width: 205
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NobleGasButton
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 82
+        width: 205
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LanthanideButton
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 82
+        width: 205
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ActinideButton
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 82
+        width: 205
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
