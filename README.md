@@ -16,9 +16,9 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 |[Surgery Learning Tool](#Surgery-Learning-Tool) | C# (KINECT) | Program that uses the KINECT camera to track students hand movements to teach them how to perform surgeries. | January 2017 - May 2017 |
 
 ## Projects 
+### Quantum Machine Learning Model 
 <p align="center"><img src="ibm.png" alt="IBM" width="200" /> </p>
 
-### Quantum Machine Learning Model 
 #### Description
 This program is a quantum support vector machine that runs on IBM's QASM simulator, where QASM is a programming language for formally defining a quantum systems. This model takes in breast cancer data from the years 1958-1970 and determines whether or not someone lived more than 5 years after they have been diagnosed. This program uses the Qiskit library to run, and the survival date comes from UCI's machine learning repository.
 #### Reason For Develepment
@@ -27,9 +27,10 @@ This project was an assignment I received during my time interning with IBM as a
 The amount of data I used was very small (only a bit more than 300 datapoints), so my model was not very accurate (~70% accuracy was the best I achieved). Despite the amount of research I put into this project, I still had very little experience with quantum computing and almost no experience with machine learning going into this project, but I ended up learning a lot about both fields through this project so I'm pretty happy with my result.
 
 [Back to Projects](#List-of-Projects)
-<p align="center"><img src="10h-9d-8s-6c-2h.png" alt="Poker Hand" width="400" /> </p>
 
 ### Poker Hand Classifier 
+<p align="center"><img src="10h-9d-8s-6c-2h.png" alt="Poker Hand" width="400" /> </p>
+
 #### Description 
 This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.62% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points total to train and test the data. 
 #### Reason For Development 
