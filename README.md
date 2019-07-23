@@ -18,9 +18,7 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 ## Projects 
 ### Quantum Machine Learning Model 
 <p align="center">
-  <img src="ibm.png" alt="IBM" width="200" />  
-
-  <img src="circuit.png" alt="circuit" width="250" /> 
+  <img src="ibm.png" alt="IBM" width="250" />  
 </p>
 
 #### Description
