@@ -12,7 +12,7 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 |[Poker Hand Classifier](#Poker-Hand-Classifier) | Python | Neural network that classifies different poker hands.| July 2019 |
 |[Stock Predictor](#Stock-Predictor) | Python | Machine Learning model that predicts stock prices.| June 2019 | 
 |[SSA Game Engine](#SSA-Game-Engine) | Java | Game Engine I developed from scratch (w/ Tutorial Help). | January 2018 - April 2018 |
-|[Chemistry Teaching Tool](#Chemistry-Teaching-Tool) | C# | Chemistry Teaching Tool developed in Unity to teach high school students the fundamentals of chemistry. | January 2017 - May 2017 |
+|[Chemistry Teaching Tool](#Chemistry-Teaching-Tool) | C# (Unity) | Chemistry Teaching Tool developed in Unity to teach high school students the fundamentals of chemistry. | January 2017 - May 2017 |
 |[Surgery Learning Tool](#Surgery-Learning-Tool) | C# (KINECT) | Program that uses the KINECT camera to track students hand movements to teach them how to perform surgeries. | January 2017 - May 2017 |
 
 ## Projects 
