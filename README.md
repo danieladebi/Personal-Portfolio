@@ -1,7 +1,8 @@
-___NOTE THIS IS STILL A WORK IN PROGRESS! WILL CONTINUE UPDATING THIS PORTFOLIO___
+___NOTE THIS IS STILL A WORK IN PROGRESS! WILL CONTINUE UPDATING THIS PORTFOLIO. I WILL BE CONTINUOUSLY UPDATING THIS PAGE AS I CREATE NEW PROJECTS IN THE FUTURE._
+
 # Daniel's Personal Portfolio
 ## About Me
-Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 2022, majoring in Computer Science and Physics. This is my portfolio of projects I've worked on over the years. All of my work on this github spans from 2017, all the way up til today, but I have been programming since 2013, when I was in eighth grade. Most of my work from that time has been lost, so for those projects, I'll simply describe what their purposes were and why I made them. I will be continuously updating this page as I create new projects in the future.  
+Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 2022, majoring in Computer Science and Physics. This is my portfolio of projects I've worked on over the years. All of my work on this github spans from 2017, all the way up til today, but I have been programming since 2013, when I was in eighth grade. Most of my work from that time has been lost, so for those projects, I'll simply describe what their purposes were and why I made them. 
 
 ### List of Projects 
 
