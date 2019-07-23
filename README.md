@@ -1,8 +1,8 @@
 __NOTE THIS IS STILL A WORK IN PROGRESS! WILL CONTINUE UPDATING THIS PORTFOLIO. I WILL BE CONTINUOUSLY UPDATING THIS PAGE AS I CREATE NEW PROJECTS IN THE FUTURE.__
 
 # Daniel's Personal Portfolio
-## About Me
-Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 2022, majoring in Computer Science and Physics. This is my portfolio of projects I've worked on over the years. All of my work on this github spans from 2016, all the way up til today, but I have been programming since 2013, when I was in eighth grade. Most of my work from that time has been lost, so for those projects, I'll simply describe what their purposes were and why I made them. 
+## About Me and My Work
+Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 2022, majoring in Computer Science and Physics. This is my portfolio of projects I've worked on over the years. All of my work on this github spans from 2016, all the way up til today, but I have been programming since 2013, when I was in eighth grade. In this portfolio, however, I will only be describing my work from 2016 to present day. 
 
 ### List of Projects 
 
@@ -12,10 +12,12 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 |[Poker Hand Classifier](#Poker-Hand-Classifier) | Python | Neural network that classifies different poker hands.| July 2019 |
 |[Stock Predictor](#Stock-Predictor) | Python | Machine Learning model that predicts stock prices.| June 2019 | 
 |[SSA Game Engine](#SSA-Game-Engine) | Java | Game Engine I developed from scratch (w/ Tutorial Help). | January 2018 - April 2018 |
-|[Chemistry Teaching Tool](#Chemistry-Teaching-Tool) | C# | Chemistry Teaching Tool developed in Unity to teach high school students the fundamentals of chemistry. | January 2017 - May 2017 |
+|[Chemistry Teaching Tool](#Chemistry-Teaching-Tool) | C# (Unity) | Chemistry Teaching Tool developed in Unity to teach high school students the fundamentals of chemistry. | January 2017 - May 2017 |
+|[Surgery Learning Tool](#Surgery-Learning-Tool) | C# (KINECT) | Program that uses the KINECT camera to track students hand movements to teach them how to perform surgeries. | January 2017 - May 2017 |
 
 ## Projects 
 ### Quantum Machine Learning Model 
+<p align="center"><img src="ibm.jpg" alt="Your image title" width="200" /> </p>
 #### Description
 This program is a quantum support vector machine that runs on IBM's QASM simulator, where QASM is a programming language for formally defining a quantum systems. This model takes in breast cancer data from the years 1958-1970 and determines whether or not someone lived more than 5 years after they have been diagnosed. This program uses the Qiskit library to run, and the survival date comes from UCI's machine learning repository.
 #### Reason For Develepment
@@ -26,8 +28,7 @@ The amount of data I used was very small (only a bit more than 300 datapoints), 
 [Back to Projects](#List-of-Projects)
 
 ### Poker Hand Classifier 
-<p align="center"><img src="10h-9d-8s-6c-2h.png" alt="Your image title" width="400" /> </p>
-
+<img src="10h-9d-8s-6c-2h.png" alt="Your image title" width="400" />
 #### Description 
 This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.62% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points total to train and test the data. 
 #### Reason For Development 
