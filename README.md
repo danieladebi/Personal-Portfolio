@@ -3,11 +3,12 @@ ___NOTE THIS IS STILL A WORK IN PROGRESS! THIS NOTE WILL BE REMOVED WHEN SUFFICI
 ## About Me
 Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 2022, majoring in Computer Science and Physics. This is my portfolio of projects I've worked on over the years. All of my work on this github spans from 2017, all the way up til today, but I have been programming since 2013, when I was in eighth grade. Most of my work from that time has been lost, so for those projects, I'll simply describe what their purposes were and why I made them. I will be continuously updating this page as I create new projects in the future.  
 
-[Poker Hand Classifier](#Poker-Hand-Classifier) - Neural network that classifies different poker hands.
+### List of Projects
+- [Poker Hand Classifier](#Poker-Hand-Classifier) - Neural network that classifies different poker hands.
 
-[Stock Predictor](#Stock-Predictor) - Machine Learning model that predicts stock prices.
+- [Stock Predictor](#Stock-Predictor) - Machine Learning model that predicts stock prices.
 
-## My Projects 
+## Projects 
 
 ### Poker Hand Classifier 
 _Completed in July 2019_
