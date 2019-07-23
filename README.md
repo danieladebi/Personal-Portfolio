@@ -45,7 +45,7 @@ While this model was generally very accurate, and accurate for more common hands
 
 ### Stock Predictor 
 <p align="center">
-  <img src="yahoo_finance.png" alt="YF" width=200" />
+  <img src="yahoo_finance.png" alt="YF" width=200" /> \n \n \n 
   <img src="stocks.PNG" alt="Stocks" width="500" />  
 </p>
 
