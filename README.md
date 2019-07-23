@@ -8,12 +8,21 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 
 |Project Name | Language | Brief Description | Duration |
 |:-----------:|:----------:|------------|:-----------:|
+|[Quantum Machine Learning Model]| Python | A support vector machine that runs on a virtual quantum system. This is my side project for IBM. | June 2019 - July 2019 |
 |[Poker Hand Classifier](#Poker-Hand-Classifier) | Python | Neural network that classifies different poker hands.| July 2019 |
 |[Stock Predictor](#Stock-Predictor) | Python | Machine Learning model that predicts stock prices.| June 2019 | 
 |[SSA Game Engine](#SSA-Game-Engine) | Java | Game Engine I developed from scratch (w/ Tutorial Help). | January 2018 - April 2018 |
 |[Chemistry Teaching Tool](#Chemistry-Teaching-Tool) | C# | Chemistry Teaching Tool developed in Unity to teach high school students the fundamentals of chemistry. | January 2017 - May 2017 |
 
 ## Projects 
+
+### Quantum Machine Learning Model
+#### Description
+
+#### Reason For Develepment
+
+#### Room For Improvement
+
 
 ### Poker Hand Classifier 
 <p align="center"><img src="10h-9d-8s-6c-2h.png" alt="Your image title" width="400" /> </p>
