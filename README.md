@@ -6,10 +6,10 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 ### List of Projects
 <p align="center">
  
-Project Name | Language | Brief Description 
+|Project Name | Language | Brief Description |
 :-----------:|:----------:|------------
- [Poker Hand Classifier](#Poker-Hand-Classifier) | Python | Neural network that classifies different poker hands.
- [Stock Predictor](#Stock-Predictor) | Python | Machine Learning model that predicts stock prices.
+|[Poker Hand Classifier](#Poker-Hand-Classifier) | Python | Neural network that classifies different poker hands.|
+|[Stock Predictor](#Stock-Predictor) | Python | Machine Learning model that predicts stock prices.|
 
 </p>
 
