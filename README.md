@@ -35,6 +35,8 @@ This is was the first time I created a neural network without following any tuto
 #### Room For Improvement
 While this model was generally very accurate, and accurate for more common hands (i.e. one pair, two pairs, etc.), this model was much less accurate for more rare hands like four of a kind, or a straight flush, or even just straights in general. This is most likely because the dataset I used was not evenly distributed, so if I were to make this project again, I would prolly try and get an evenly distributed amount of each hand type, so my neural network could classify the rarer hands more accurately. I'm still continuing the process of collecting data from this project to see what else can be improved upon.
 
+[Back to Top](#List-of-Projects)
+
 ### Stock Predictor 
 #### Description
 This is a machine learning model that takes in the prices of each stock in the S&P 500 and by using a support vector machine, predicts whether the prices will rise or fall and by how much. It can also determine whether or not you should buy, sell, or hold a stock for a certain timespan (default is 7 days) provided by the user. Credits to sentdex (youtube channel) and Yahoo Finance for providing me the resources and information I needed for this project.
@@ -42,13 +44,17 @@ This is a machine learning model that takes in the prices of each stock in the S
 Well, besides trying to get rich fast, I wanted to learn how to work with and process time-series data. While I don't have the strongest interest in finance, I do find stocks to be rather interesting, so I decided to see what I could do trying to predict them. 
 #### Room For Improvement
 This model was rather difficult to determine how accurate it was, considering that it decided to hold stock shares for the majority of the timeline. And when the model made the decision to buy or sell, it usually made the right choice, but there were occasions where it would miss major profits, and some stocks resulted in negative returns altogether. If I could remake this model, I would probably focus on a few stocks (or even just one) at a time, and train the model to maximize returns for those stocks only rather than trying to go for 500 at once.
- 
+
+[Back to Top](#List-of-Projects)
+
 ### SSA Game Engine
 #### Description
 
 #### Reason For Develepment
 
 #### Room For Improvement
+
+[Back to Top](#List-of-Projects)
 
 ### Chemistry Teaching Tool
 #### Description
@@ -57,3 +63,4 @@ This model was rather difficult to determine how accurate it was, considering th
 
 #### Room For Improvement
 
+[Back to Top](#List-of-Projects)
