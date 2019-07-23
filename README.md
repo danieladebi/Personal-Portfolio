@@ -60,10 +60,11 @@ This model was rather difficult to determine how accurate it was, considering th
 
 ### SSA Game Engine
 #### Description
-
+I developed a 3D game engine for an independent study I did in my senior year of high school. I used various youtube tutorials to help me along the way. The engine is capable of simulating real world physics and is also highly customizable. 
 #### Reason For Develepment
-
+The independent study was called "Simulation Software Analysis", or SSA, because for the entire year, I studied different types of simulation software. I decided to make a game engine in particular because at the time, most of my programming was for video game purposes, and I wanted to learn more about the environments I would be developing in. 
 #### Room For Improvement
+I feel that I could have made the engine more intuitive and simpler to use.
 
 [Back to Projects](#List-of-Projects)
 
