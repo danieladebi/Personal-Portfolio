@@ -19,7 +19,7 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 ### Quantum Machine Learning Model 
 <br />
 <p align="center">
-  <img src="ibm.png" alt="IBM" width="500" />  
+  <img src="ibm.png" alt="IBM" width="250" />  
 </p>
 
 #### Description
@@ -45,7 +45,7 @@ While this model was generally very accurate, and accurate for more common hands
 
 ### Stock Predictor 
 <p align="center">
-  <img src="stocks.PNG" alt="Stocks" width="250" />  
+  <img src="stocks.PNG" alt="Stocks" width="500" />  
 </p>
 #### Description
 This is a machine learning model that takes in the prices of each stock in the S&P 500 and by using a support vector machine, predicts whether the prices will rise or fall and by how much. It can also determine whether or not you should buy, sell, or hold a stock for a certain timespan (default is 7 days) provided by the user. Credits to sentdex (youtube channel) and Yahoo Finance for providing me the resources and information I needed for this project.
