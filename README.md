@@ -20,7 +20,7 @@ Hello! My name is Ikechukwu Daniel Adebi, and I am a member of MIT's class of 20
 ### Quantum Machine Learning Model 
 <br />
 <p align="center">
-  <img src="ibm.png" alt="IBM" width="250" />  
+  <img src="other_materials/ibm.png" alt="IBM" width="250" />  
 </p>
 
 #### Description
@@ -33,7 +33,7 @@ The amount of data I used was very small (only a bit more than 300 datapoints), 
 [Back to Projects](#List-of-Projects)
 
 ### Poker Hand Classifier 
-<p align="center"><img src="10h-9d-8s-6c-2h.png" alt="Poker Hand" width="400" /> </p>
+<p align="center"><img src="other_materials/10h-9d-8s-6c-2h.png" alt="Poker Hand" width="400" /> </p>
 
 #### Description 
 This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.62% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points total to train and test the data. 
@@ -46,7 +46,7 @@ While this model was generally very accurate, and accurate for more common hands
 
 ### Stock Predictor 
 <p align="center">
-  <img src="yahoo_finance.png" alt="YF" width=195" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="stocks.PNG" alt="Stocks" width="500" /> 
+  <img src="other_materials/yahoo_finance.png" alt="YF" width=195" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/stocks.PNG" alt="Stocks" width="500" /> 
 </p>
 
 #### Description
@@ -59,7 +59,7 @@ This model was rather difficult to determine how accurate it was, considering th
 [Back to Projects](#List-of-Projects)
 
 ### SSA Game Engine
-<p align="center"> <img src="SSA2.gif" alt="SSA2" width="250" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="SSA.gif" alt="SSA" width="300" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="SSA3.gif" alt="SSA3" width="250" /></p>
+<p align="center"> <img src="other_materials/SSA2.gif" alt="SSA2" width="250" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/SSA.gif" alt="SSA" width="300" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/SSA3.gif" alt="SSA3" width="250" /></p>
 
 #### Description
 I developed a 3D game engine for an independent study I did in my senior year of high school. I used various youtube tutorials to help me along the way. The engine is capable of simulating real world physics and is also highly customizable. 
