@@ -59,7 +59,7 @@ This model was rather difficult to determine how accurate it was, considering th
 [Back to Projects](#List-of-Projects)
 
 ### SSA Game Engine
-<p align="center"><img src="SSA.gif" alt="SSA" width="400" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /> <img src="SSA2.gif" alt="SSA2" width="250" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="SSA3.gif" alt="SSA3" width="250" /></p>
+<p align="center"><img src="SSA.gif" alt="SSA" width="250" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /> <img src="SSA2.gif" alt="SSA2" width="250" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="SSA3.gif" alt="SSA3" width="250" /></p>
 
 #### Description
 I developed a 3D game engine for an independent study I did in my senior year of high school. I used various youtube tutorials to help me along the way. The engine is capable of simulating real world physics and is also highly customizable. 
