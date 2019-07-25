@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>space2.jpg</Source>
+      <Name>space2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\space2.xnb</Output>
+      <Time>2016-09-29T19:52:41.4860967-04:00</Time>
+    </Item>
+    <Item>
+      <Source>startButtonClicked.png</Source>
+      <Name>startButtonClicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\startButtonClicked.xnb</Output>
+      <Time>2016-10-04T05:36:48.6763635-04:00</Time>
+    </Item>
+    <Item>
+      <Source>startButton.png</Source>
+      <Name>startButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\startButton.xnb</Output>
+      <Time>2016-10-04T05:41:06.5677749-04:00</Time>
+    </Item>
+    <Item>
+      <Source>exitButton.png</Source>
+      <Name>exitButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\exitButton.xnb</Output>
+      <Time>2016-10-04T05:41:45.5268741-04:00</Time>
+    </Item>
+    <Item>
+      <Source>exitButtonClicked.png</Source>
+      <Name>exitButtonClicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\exitButtonClicked.xnb</Output>
+      <Time>2016-10-04T05:41:07.6482186-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pointer.png</Source>
+      <Name>pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\pointer.xnb</Output>
+      <Time>2016-10-01T20:28:43.2738622-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spaceship.fbx</Source>
+      <Name>spaceship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\spaceship.xnb</Output>
+      <Time>2016-10-05T20:11:36.1815288-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\spaceship_0.xml</Key>
+        <Value>2016-10-05T20:40:39.2151176-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>spaceship.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\spaceship_0.xml</Output>
+      <Time>2016-10-05T20:11:36.1815288-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmosContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmosContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-08-30T08:36:09.9234207-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

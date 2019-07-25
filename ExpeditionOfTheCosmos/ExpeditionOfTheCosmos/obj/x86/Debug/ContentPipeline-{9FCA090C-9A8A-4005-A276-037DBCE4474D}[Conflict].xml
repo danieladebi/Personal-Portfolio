@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>startButtonClicked.png</Source>
+      <Name>startButtonClicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\startButtonClicked.xnb</Output>
+      <Time>2016-10-04T05:36:48.6763635-04:00</Time>
+    </Item>
+    <Item>
+      <Source>startButton.png</Source>
+      <Name>startButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\startButton.xnb</Output>
+      <Time>2016-10-08T09:35:09.7060456-04:00</Time>
+    </Item>
+    <Item>
+      <Source>exitButton.png</Source>
+      <Name>exitButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\exitButton.xnb</Output>
+      <Time>2016-10-11T05:32:28.3644533-04:00</Time>
+    </Item>
+    <Item>
+      <Source>exitButtonClicked.png</Source>
+      <Name>exitButtonClicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\exitButtonClicked.xnb</Output>
+      <Time>2016-10-04T05:41:07.6482186-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pointer.png</Source>
+      <Name>pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\pointer.xnb</Output>
+      <Time>2016-10-01T20:28:43.2738622-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spaceBG1.png</Source>
+      <Name>spaceBG1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\spaceBG1.xnb</Output>
+      <Time>2016-10-08T09:24:05.6778356-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spaceBG2.png</Source>
+      <Name>spaceBG2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\spaceBG2.xnb</Output>
+      <Time>2016-10-08T09:24:05.6818351-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Name.png</Source>
+      <Name>Name</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\Name.xnb</Output>
+      <Time>2016-10-11T19:03:13.5800155-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Title.png</Source>
+      <Name>Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\Title.xnb</Output>
+      <Time>2016-10-11T19:03:13.5850257-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Pause.png</Source>
+      <Name>Pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\Pause.xnb</Output>
+      <Time>2016-10-20T18:47:40.0757231-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spaceship.fbx</Source>
+      <Name>spaceship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\spaceship.xnb</Output>
+      <Time>2016-10-14T06:19:32.3932504-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\spaceship_0.xml</Key>
+        <Value>2016-10-25T19:52:41.8848533-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Asteroid.fbx</Source>
+      <Name>Asteroid</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\Asteroid.xnb</Output>
+      <Time>2016-10-17T20:14:03.2189733-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\Asteroid_0.xml</Key>
+        <Value>2016-10-25T19:52:41.9658601-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>skyboxBox.fbx</Source>
+      <Name>skyboxBox</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\skyboxBox.xnb</Output>
+      <Time>2016-10-23T08:38:39.5940566-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\skyboxBox_0.xml</Key>
+        <Value>2016-10-25T19:52:41.9938591-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Game.spritefont</Source>
+      <Name>Game</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\Game.xnb</Output>
+      <Time>2016-10-14T18:56:56.898307-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Skybox.fx</Source>
+      <Name>Skybox</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\Skybox.xnb</Output>
+      <Time>2016-10-23T21:22:58.5919702-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spaceship.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\spaceship_0.xml</Output>
+      <Time>2016-10-14T06:19:32.3932504-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Asteroid.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\Asteroid_0.xml</Output>
+      <Time>2016-10-17T20:14:03.2189733-04:00</Time>
+    </Item>
+    <Item>
+      <Source>skyboxBox.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\skyboxBox_0.xml</Output>
+      <Time>2016-10-23T08:38:39.5940566-04:00</Time>
+    </Item>
+    <Item>
+      <Source>EmptySpace.dds</Source>
+      <Name>EmptySpace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\EmptySpace.xnb</Output>
+      <Time>2016-10-29T07:06:14.4116821-04:00</Time>
+    </Item>
+    <Item>
+      <Source>earth_unshaded_hs__hschmidt.jpg</Source>
+      <Name>earth_unshaded_hs__hschmidt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\earth_unshaded_hs__hschmidt.xnb</Output>
+      <Time>2016-10-29T20:19:52.853961-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Earth.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\Earth_0.xml</Output>
+      <Time>2016-11-01T07:02:22.6740541-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mars.fbx</Source>
+      <Name>Mars</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\Mars.xnb</Output>
+      <Time>2016-11-01T06:54:32.2551942-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\Mars_0.xml</Key>
+        <Value>2016-11-01T06:54:40.3180505-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\mars_texture_map_with_clouds_by__0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Mars.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\Mars_0.xml</Output>
+      <Time>2016-11-01T06:54:32.2551942-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Jupiter.fbx</Source>
+      <Name>Jupiter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\Jupiter.xnb</Output>
+      <Time>2016-10-29T20:46:19.3519703-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\Jupiter_0.xml</Key>
+        <Value>2016-10-29T20:46:25.0098411-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\realj2k_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Jupiter.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\Jupiter_0.xml</Output>
+      <Time>2016-10-29T20:46:19.3519703-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\FBX\8B343358\Jupiter.fbm\realj2k.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\realj2k_0.xnb</Output>
+      <Time>2016-10-29T20:46:24.8871711-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Saturn.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\Saturn_0.xml</Output>
+      <Time>2016-10-30T17:34:18.9196466-04:00</Time>
+    </Item>
+    <Item>
+      <Source>saturnmap.jpg</Source>
+      <Name>saturnmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\saturnmap.xnb</Output>
+      <Time>2016-10-29T22:08:00.7769701-04:00</Time>
+    </Item>
+    <Item>
+      <Source>2k_saturn_ring+alpha.png</Source>
+      <Name>2k_saturn_ring+alpha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\2k_saturn_ring+alpha.xnb</Output>
+      <Time>2016-10-29T22:08:08.2994047-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\FBX\57BD32F2\Saturn.fbm\saturnmap.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\saturnmap_1.xnb</Output>
+      <Time>2016-10-30T17:34:20.4544637-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\FBX\57BD32F2\Saturn.fbm\2k_saturn_ring+alpha.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\2k_saturn_ring+alpha_1.xnb</Output>
+      <Time>2016-10-30T17:34:20.4564638-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Saturn.fbx</Source>
+      <Name>Saturn</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeTexturesToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\Saturn.xnb</Output>
+      <Time>2016-10-30T17:34:18.9196466-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\Saturn_0.xml</Key>
+        <Value>2016-10-30T17:34:20.6114544-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\saturnmap_1.xnb</Request>
+      <Request>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\2k_saturn_ring+alpha_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Uranus.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\Uranus_0.xml</Output>
+      <Time>2016-10-31T19:45:05.385192-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Neptune.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\Neptune_0.xml</Output>
+      <Time>2016-10-31T19:53:35.5369482-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\FBX\8B143354\Neptune.fbm\neptune_current.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\neptune_current_1.xnb</Output>
+      <Time>2016-10-31T19:53:42.3367815-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Uranus.fbx</Source>
+      <Name>Uranus</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeTexturesToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\Uranus.xnb</Output>
+      <Time>2016-10-31T19:45:05.385192-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\Uranus_0.xml</Key>
+        <Value>2016-10-31T19:45:14.2495041-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\uranus_0.xnb</Request>
+      <Request>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\uranusringcolour_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\FBX\57CC32F3\Uranus.fbm\uranus.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\uranus_0.xnb</Output>
+      <Time>2016-10-31T19:45:14.0830024-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\FBX\57CC32F3\Uranus.fbm\uranusringcolour.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\uranusringcolour_1.xnb</Output>
+      <Time>2016-10-31T19:45:14.0845029-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Neptune.fbx</Source>
+      <Name>Neptune</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeTexturesToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\Neptune.xnb</Output>
+      <Time>2016-10-31T19:53:35.5369482-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\Neptune_0.xml</Key>
+        <Value>2016-10-31T19:53:42.5042526-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\uranusringcolour_2.xnb</Request>
+      <Request>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\neptune_current_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\FBX\8B143354\Neptune.fbm\uranusringcolour.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\uranusringcolour_2.xnb</Output>
+      <Time>2016-10-31T19:53:42.3382812-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\FBX\F14E3208\Mars.fbm\mars_texture_map_with_clouds_by_jcpag2010-d995bm4.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\mars_texture_map_with_clouds_by__0.xnb</Output>
+      <Time>2016-11-01T06:54:40.2370476-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Earth.fbx</Source>
+      <Name>Earth</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeTexturesToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\Earth.xnb</Output>
+      <Time>2016-11-01T07:02:22.6740541-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\Earth_0.xml</Key>
+        <Value>2016-11-01T07:03:32.8334768-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\earth_texture_map_1000px_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\FBX\23BD3269\Earth.fbm\earth_texture_map_1000px.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\earth_texture_map_1000px_1.xnb</Output>
+      <Time>2016-11-01T07:03:32.7529813-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{9FCA090C-9A8A-4005-A276-037DBCE4474D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmosContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ikechukwu Dan Adebi\Google Drive\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\ExpeditionOfTheCosmos\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-08-30T08:36:09.9234207-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
