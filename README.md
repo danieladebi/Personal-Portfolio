@@ -12,7 +12,7 @@ Hello! My name is Ikechukwu Daniel Adebi, although I personally go by Daniel, an
 |[Poker Hand Classifier](#Poker-Hand-Classifier) | Python | Neural network that classifies different poker hands.| July 2019 |
 |[Stock Predictor](#Stock-Predictor) | Python | Machine Learning model that predicts stock prices.| June 2019 | 
 |[SSA Game Engine](#SSA-Game-Engine) | Java | 3D Game Engine I developed from scratch for my Independent Study in high school. (SSA = Simulation Software Analysis) | January 2018 - April 2018 |
-|[Chemistry Teaching Tool](#Chemistry-Teaching-Tool) | C# (Unity) | Chemistry Teaching Tool developed in Unity to teach high school students the fundamentals of chemistry. | January 2017 - May 2017 |
+|[Chemistry Learning Tool](#Chemistry-Learning-Tool) | C# (Unity) | Chemistry Learning Tool developed in Unity to teach high school students the fundamentals of chemistry. | January 2017 - May 2017 |
 |[Surgery Learning Tool](#Surgery-Learning-Tool) | C# (KINECT) | Program that uses the KINECT camera to track students hand movements to teach them how to perform surgeries. | January 2017 - May 2017 |
 |[Expedition of the Cosmos](#Expedition-of-the-Cosmos) | C# (XNA) | Video game that simulates motion from all planets from Earth to Neptune. Motion data modeled using Wolfram Mathematica. | September 2016 - December 2016 |
 
@@ -70,15 +70,16 @@ I feel that I could have made the engine more intuitive and simpler to use, beca
 
 [Back to Projects](#List-of-Projects)
 
-### Chemistry Teaching Tool
+### Chemistry Learning Tool
 <p align="center"> <img src="other_materials/CLT.png" alt="CLT" width="350" /> </p> 
 <p align="center"> <img src="other_materials/CLT2.gif" alt="CLT2" width="400" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/CLT3.gif" alt="CLT3" width="400" /></p>
 
 #### Description
-
+The Chemistry Learning Tool is a program I developed to teach high school students introductory level chemistry. It covers topics like atomic structure, periodicity, bonding, and others. This tool helped sophomores and juniors in my grade study for their exams.
 #### Reason For Develepment
-
+In high school, I found chemistry to be a pretty easy subject for me to learn. But I found that many of my classmates struggled in class for various reasons, whether it was because they weren't able to remember all of the correct electron configurations, or if they just could not figure out how different atoms bonded with each other. So I developed this program to help my classmates and friends better understand the material. 
 #### Room For Improvement
+A lot of the information in this program is just text listed in paragraph form, rather than in clearer and more concise bullet points or sections. Shorter text would also allow for students to better absorb the information they are provided, rather than being forced to read through texts that's similar to the textbooks. I also was not able to cover all topics covered in our Chemistry classes, so I could have covered more specific topics like different kinds of chemical reactions, and displayed animations or visuals of these concepts. 
 
 [Back to Projects](#List-of-Projects)
 
