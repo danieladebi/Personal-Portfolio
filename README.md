@@ -71,7 +71,8 @@ I feel that I could have made the engine more intuitive and simpler to use, beca
 [Back to Projects](#List-of-Projects)
 
 ### Chemistry Teaching Tool
-<p align="center"> <img src="other_materials/CLT2.gif" alt="CLT2" width="250" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/CLT.png" alt="CLT" width="250" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/CLT3.gif" alt="CLT3" width="250" /></p>
+<p align="center"> <img src="other_materials/CLT.png" alt="CLT" width="300" /> </p> 
+<p align="center"> <img src="other_materials/CLT2.gif" alt="CLT2" width="300" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/CLT3.gif" alt="CLT3" width="300" /></p>
 
 #### Description
 
