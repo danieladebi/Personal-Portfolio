@@ -13,7 +13,7 @@ Hello! My name is Ikechukwu Daniel Adebi, although I personally go by Daniel, an
 |[Stock Predictor](#Stock-Predictor) | Python | Machine Learning model that predicts stock prices.| June 2019 | 
 |[SSA Game Engine](#SSA-Game-Engine) | Java | 3D Game Engine I developed from scratch for my Independent Study in high school. (SSA = Simulation Software Analysis) | January 2018 - April 2018 |
 |[Chemistry Learning Tool](#Chemistry-Learning-Tool) | C# (Unity) | Chemistry Learning Tool developed in Unity to teach high school students the fundamentals of chemistry. | January 2017 - May 2017 |
-|[Surgery Learning Tool](#Surgery-Learning-Tool) | C# (KINECT) | Program that uses the KINECT camera to track students hand movements to teach them how to perform surgeries. | January 2017 - May 2017 |
+|[Surgery Learning Tool](#Surgery-Learning-Tool) | C# (Kinect) | Program that uses the Kinect camera to track students hand movements to teach them how to perform surgeries. | January 2017 - May 2017 |
 |[Expedition of the Cosmos](#Expedition-of-the-Cosmos) | C# (XNA) | Video game that simulates motion from all planets from Earth to Neptune. Motion data modeled using Wolfram Mathematica. | September 2016 - December 2016 |
 
 ## Projects 
@@ -75,7 +75,7 @@ I feel that I could have made the engine more intuitive and simpler to use, beca
 <p align="center"> <img src="other_materials/CLT2.gif" alt="CLT2" width="400" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/CLT3.gif" alt="CLT3" width="400" /></p>
 
 #### Description
-The Chemistry Learning Tool is a program I developed to teach high school students introductory level chemistry. It covers topics like atomic structure, periodicity, bonding, and others. This tool helped sophomores and juniors in my grade study for their exams.
+The Chemistry Learning Tool is a program I developed to teach high school students introductory level chemistry. It covers topics like atomic structure, periodicity, bonding, and others. This tool helped sophomores and juniors in my grade study for their chemistry exams.
 #### Reason For Develepment
 In high school, I found chemistry to be a pretty easy subject for me to learn. But I found that many of my classmates struggled in class for various reasons, whether it was because they weren't able to remember all of the correct electron configurations, or if they just could not figure out how different atoms bonded with each other. So I developed this program to help my classmates and friends better understand the material. 
 #### Room For Improvement
@@ -87,8 +87,10 @@ A lot of the information in this program is just text listed in paragraph form, 
 <p align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg1.png" alt="surg1" width="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg2.png" alt="surg2" width="300" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg3.png" alt="surg3" width="225" /></p>
 
 #### Description
+The Surgery Learning Tool is a program designed for the Kinect console to teach students how to perform different kinds of surgery. This program teaches you how to perform diffferent types of surgeries, step by step. There are three types of surgery this program focuses on, and these are orthopedic, plastic, and cancer removal surgeries. 
 
 #### Reason For Develepment
+I developed this program for my computer science project in my junior year of high school. We had to develop a program that was able to teach other people how to do certain tasks through the use of human movement (hence the reason I used the Kinect console). At this time, I was also interested in learning more about the medical field, and more specifically, how surgeries are performed. So I decided to spend time to do some research with these topics and developed this program.
 
 #### Room For Improvement
 
