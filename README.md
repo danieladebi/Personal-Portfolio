@@ -84,7 +84,7 @@ A lot of the information in this program is just text listed in paragraph form, 
 [Back to Projects](#List-of-Projects)
 
 ### Surgery Learning Tool
-<p align="center"> <img src="other_materials/surg1.png" alt="surg1" width="25" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg2.png" alt="surg2" width="300" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg3.png" alt="surg3" width="250" /></p>
+<p align="center"> <img src="other_materials/surg1.png" alt="surg1" width="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg2.png" alt="surg2" width="300" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg3.png" alt="surg3" width="250" /></p>
 
 #### Description
 
