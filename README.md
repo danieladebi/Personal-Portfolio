@@ -93,6 +93,8 @@ A lot of the information in this program is just text listed in paragraph form, 
 [Back to Projects](#List-of-Projects)
 
 ### Expedition of the Cosmos
+<p align="center"> <img src="other_materials/EotC.gif" alt="CLT" width="350" /> </p> 
+<p align="center"> <img src="other_materials/EotC2.gif" alt="CLT2" width="400" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/EotC3.gif" alt="CLT3" width="400" /></p>
 #### Description
 
 #### Reason For Develepment
