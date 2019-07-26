@@ -93,6 +93,7 @@ The Surgery Learning Tool is a program designed for the Kinect console to teach 
 I developed this program for my computer science project in my junior year of high school. We had to develop a program that was able to teach other people how to do certain tasks through the use of human movement (hence the reason I used the Kinect console). At this time, I was also interested in learning more about the medical field, and more specifically, how surgeries are performed. So I decided to spend time to do some research with these topics and developed this program.
 
 #### Room For Improvement
+There were challenges I faced working with the limitations of the Kinect console itself, and how well it could detect the user's hands while they're performing the surgery. When the user had to perform specific cuts, there were times I was unable to detect the user accurately enough, as the Kinect camera we were provided could only detect the user's hands and not anything more specific like their fingers. 
 
 [Back to Projects](#List-of-Projects)
 
