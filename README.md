@@ -102,10 +102,13 @@ There were challenges I faced working with the limitations of the Kinect console
 <p align="center"> <img src="other_materials/EotC2.gif" alt="EotC2" width="300" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/EotC3.gif" alt="EotC3" width="300" /></p>
 
 #### Description
+Expedition of the Cosmos is a 3D space simulation game, where the objective is to exit the solar system from Earth by only using asteroids as a fuel source. This game is a simulation because it models the planetary movements of the solar system in real life (with accurate time scale as well), and I gathered data to model the planetary orbits using Wolfram Mathematica. All 3D models were also made by me using Autodesk Maya.
 
 #### Reason For Develepment
+I have always been, and still am, interested in space and astronomy, so I wanted to make a game based off of these topics. This project was also the first complete game I developed from scratch, so I wanted to see how far I could push my programming skills with my knowledge I had at the time, and I thought a fun way to do this was through video games.
 
 #### Room For Improvement
+The functions I developed to model the planetary movements were based off of their locations away from Earth (since the player starts from this point), rather than the Sun, which most likely resulted in a less accurate depiction on how the planets actually moved. Also for a good majority of gameplay, the game itself is rather boring, as you are really just traveling through space with not much to avoid or attack, so while I did try to focus on achieving realism in this project, I feel that I still could have at least made the game a little bit more fun. 
 
 [Back to Projects](#List-of-Projects)
 
