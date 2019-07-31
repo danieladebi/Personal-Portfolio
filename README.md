@@ -29,7 +29,7 @@ X train size: 244
 X test size: 62
 Y train size: 244
 Y test size: 62
-testing success ratio:  0.7940645161290323
+testing success ratio: 0.7940645161290323
 ```
 
 #### Description
