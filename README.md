@@ -86,6 +86,9 @@ A lot of the information in this program is just text listed in paragraph form, 
 ### Surgery Learning Tool
 <p align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg1.png" alt="surg1" width="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg2.png" alt="surg2" width="300" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg3.png" alt="surg3" width="225" /></p>
 
+_Demonstration: (NOTE: video does not display actual project, but it does display my demonstration of the project to a certified physician._
+[Link to Demonstration/Presentation](https://drive.google.com/open?id=0B90WXoM2aiWeOTBLb0N3UkFQR2c)
+
 #### Description
 The Surgery Learning Tool is a program designed for the Kinect console to teach students how to perform different kinds of surgery. This program teaches you how to perform diffferent types of surgeries, step by step. There are three types of surgery this program focuses on, and these are orthopedic, plastic, and cancer removal surgeries. 
 
