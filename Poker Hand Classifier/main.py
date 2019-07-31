@@ -84,11 +84,12 @@ print("Accuracy per hand:")
 pprint(accuracy_per_hand)
 
 hand_names = [value for value in hands.values()]
+plt.style.use('ggplot')
+
 plt.title("Distribution of 1,000,000 hands")
 plt.barh(hand_names, Counter(test_poker_data[predict]).values(), color="r")
 plt.ylabel("Hands")
 plt.xlabel("Count")
-plt.style.use('ggplot')
 
 plt.show()
 
