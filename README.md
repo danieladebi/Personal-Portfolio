@@ -84,7 +84,9 @@ For example, flushes were virtually impossible for my program to detect because 
 Below is a data and accuracy distribution so you get a clearer picture of what I'm describing.
 ```
 Count per hand (for 1,000,000 hands):
-{"Nothing 0": 501209, "One Pair 1": 422498, "Two Pairs 2": 47622, "Three of a Kind 3": 21121, "Straight 4": 3885, "Flush 5": 1996, "Full House 6": 1424, "Four of a Kind 7": 230, "Straight Flush 8": 12, "Royal Flush 9": 3}
+{"Nothing 0": 501209, "One Pair 1": 422498, "Two Pairs 2": 47622, 
+"Three of a Kind 3": 21121, "Straight 4": 3885, "Flush 5": 1996, "Full House 6": 1424, 
+Four of a Kind 7": 230, "Straight Flush 8": 12, "Royal Flush 9": 3}
 
 Model Accuracy Per Hand:
 {0: 0.9993596413990358,
