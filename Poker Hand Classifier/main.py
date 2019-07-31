@@ -8,7 +8,7 @@ import pickle
 from sklearn import linear_model, preprocessing
 
 suits = {1:"Hearts", 2:"Spades", 3:"Diamonds", 4:"Clubs"}
-ranks = {1:"Ace",11:"Jack", 12:"Queen", 13:"King"}
+ranks = {1:"Ace", 11:"Jack", 12:"Queen", 13:"King"}
 hands = {0:"Nothing",
          1:"One Pair",
          2:"Two Pairs",
@@ -59,18 +59,19 @@ model = keras.models.load_model("poker_model.h5")
 
 test_loss, acc = model.evaluate(X_test.values, y_test.values)
 
+
 def predict_model(model, X_test, y_test):
     predicted = model.predict(X_test)
     model_acc = 0
     for p, x, y in zip(predicted, range(len(X_test)), y_test):
         if np.argmax(p) > 3:
-            print("Prediction:", np.argmax(p)==y, hands[np.argmax(p)], "| Actual:", hands[y], "| Hand", X_test[["C1","C2","C3","C4","C5"]][x:x+1])
+            print("Prediction:", np.argmax(p)==y, "| Predicted:", hands[np.argmax(p)], "| Actual:", hands[y], "| Hand \n", X_test[x:x+1])
         if np.argmax(p) == y:
             model_acc += 1/len(X_test)
-    print("Accuracy on predicted data", model_acc)
+    print("Accuracy on predicted data:", model_acc)
 
 
 predict_model(model, poker_data.drop(["CLASS"], 1), poker_data["CLASS"])
 #model.predict(poker_data.drop(["CLASS"],1)))
 
-print("Accuracy on test data", acc)
+print("Accuracy on test data:", acc)
