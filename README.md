@@ -76,7 +76,39 @@ This program is a neural network that is able to identify poker hands with over 
 #### Reason For Development 
 This is was the first time I created a neural network without following any tutorials online, and I was also curious to see how neural networks go about classifying different sets of numbers, and I found this poker hand classifier as an easy way to do so. 
 #### Room For Improvement
-While this model was generally very accurate, and accurate for more common hands (i.e. one pair, two pairs, etc.), this model was much less accurate for more rare hands like four of a kind, or a straight flush, or even just straights in general. This is most likely because the dataset I used was not evenly distributed, so if I were to make this project again, I would prolly try and get an evenly distributed amount of each hand type, so my neural network could classify the rarer hands more accurately. 
+While this model was generally very accurate, and accurate for more common hands (i.e. one pair, two pairs, etc.), This is most likely because the dataset I used was not evenly distributed, so if I were to make this project again, I would prolly try and get an evenly distributed amount of each hand type, so my neural network could classify the rarer hands more accurately. 
+
+For example, flushes were virtually impossible for my program to detect because out of the 1,000,000 hands that the model processed, only about 2000 of these hands were actually some form of flush, so as a result, it was virtually impossible for this model to classify flushes, straight flushes, or royal flushes. 
+
+Below is a data and accuracy distribution so you get a clearer picture of what I'm describing.
+```
+Count per hand (for 1,000,000 data points):
+
+{"Nothing 0": 501209, 
+ "One Pair 1": 422498, 
+ "Two Pairs 2": 47622, 
+ "Three of a Kind 3": 21121, 
+ "Straight 4": 3885, 
+ "Flush 5": 1996, 
+ "Full House 6": 1424, 
+ "Four of a Kind 7": 230, 
+ "Straight Flush 8": 12, 
+ "Royal Flush 9": 3}
+
+Model Accuracy Per Hand:
+
+{0: 0.9993596413990358,
+ 1: 0.9998113029529495,
+ 2: 0.9975124378109744,
+ 3: 1.0000000000000142,
+ 4: 0.9032258064516123,
+ 5: 0,
+ 6: 0.9444444444444448,
+ 7: 0.9999999999999999,
+ 8: 0,
+ 9: 0}
+```
+
 
 [Back to Projects](#List-of-Projects)
 
