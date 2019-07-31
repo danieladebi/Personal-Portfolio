@@ -62,13 +62,14 @@ Prediction: True | Predicted: Full House | Actual: Full House | Hand
 Prediction: True | Predicted: Full House | Actual: Full House | Hand 
         S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
 24977   3   4   1   4   2   4   2   6   3   6
-Accuracy on predicted data 0.996481407437501
-Accuracy on test data 0.99671
+Accuracy on predicted data: 0.996481407437501
+Accuracy on test data: 0.99671
 ```
 
 #### Description 
 This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.67% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points total to train and test the data. Below I describe how the data is represented in the output above:
 
+- "#" corresponds to which specific card is being referred to in a given hand. (Ranges from 1-5)
 - "S#" represents what suit the card is. (1 => Hearts, 2 => Spades, 3 => Diamonds, 4 => Clubs)
 - "C#" represents what rank the card is. (1 => Aces, 11 => Jacks, 12 => Queens, 13 => Kings, All other numbers are normal)
 
