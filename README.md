@@ -67,7 +67,7 @@ Accuracy on predicted data: 0.996481407437501
 ```
 
 #### Description 
-This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.67% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points in total to train and test the data (800,000 to train, and 200,000 to test). Below I describe how the data is represented in the output above:
+This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.67% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points in total to train and test the data (800,000 to train, and 200,000 to test). I also used this model to predict an extra 25,000 hands to make sure it was accurate with unfamiliar input. Below I describe how the data is represented in the output above:
 
 - "#" corresponds to which specific card is being referred to in a given hand. (Ranges from 1-5)
 - "S#" represents what suit the card is. (1 => Hearts, 2 => Spades, 3 => Diamonds, 4 => Clubs)
