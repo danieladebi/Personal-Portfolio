@@ -86,7 +86,7 @@ A lot of the information in this program is just text listed in paragraph form, 
 ### Surgery Learning Tool
 <p align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg1.png" alt="surg1" width="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg2.png" alt="surg2" width="300" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg3.png" alt="surg3" width="225" /></p>
 
-_Demonstration: (NOTE: video does not display actual project, but it does display my demonstration of the project to a certified physician._
+__Demonstration__: (NOTE: video does not display actual project, but it does display my demonstration of the project to a certified orthopaedic surgeon, William Mackenzie of Nemours Hospital.)
 [Link to Demonstration/Presentation](https://drive.google.com/open?id=0B90WXoM2aiWeOTBLb0N3UkFQR2c)
 
 #### Description
