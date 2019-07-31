@@ -23,7 +23,7 @@ This page will be updated as I continue to create more projects. Enjoy!
   <img src="other_materials/ibm.png" alt="IBM" width="250" />  
 </p>
 
-#### Results:
+#### Results/Output:
 ```python
 X train size: 244
 X test size: 62
@@ -43,6 +43,26 @@ The amount of data I used was very small (only a bit more than 300 datapoints), 
 
 ### Poker Hand Classifier 
 <p align="center"><img src="other_materials/10h-9d-8s-6c-2h.png" alt="Poker Hand" width="400" /> </p>
+
+#### Results/Output
+```python
+ S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
+24586   1   4   3   3   4   4   1   3   2   4
+Prediction: False Straight | Actual: Nothing | Hand 
+        S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
+24644   2  10   2  13   4  12   3  11   1   3
+Prediction: True Full House | Actual: Full House | Hand 
+        S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
+24665   1  10   3   3   3  10   2  10   4   3
+Prediction: True Full House | Actual: Full House | Hand 
+        S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
+24776   1   6   2   6   4  12   3   6   1  12
+Prediction: True Full House | Actual: Full House | Hand 
+        S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
+24977   3   4   1   4   2   4   2   6   3   6
+Accuracy on predicted data 0.996481407437501
+Accuracy on test data 0.99671
+```
 
 #### Description 
 This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.62% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points total to train and test the data. 
