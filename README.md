@@ -46,18 +46,20 @@ The amount of data I used was very small (only a bit more than 300 datapoints), 
 
 #### Results/Output
 ```python
- S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
+
+...
+        S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
 24586   1   4   3   3   4   4   1   3   2   4
-Prediction: False | Straight | Actual: Nothing | Hand 
+Prediction: False | Predicted: Straight | Actual: Nothing | Hand 
         S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
 24644   2  10   2  13   4  12   3  11   1   3
-Prediction: True | Full House | Actual: Full House | Hand 
+Prediction: True | Predicted: Full House | Actual: Full House | Hand 
         S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
 24665   1  10   3   3   3  10   2  10   4   3
-Prediction: True | Full House | Actual: Full House | Hand 
+Prediction: True | Predicted: Full House | Actual: Full House | Hand 
         S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
 24776   1   6   2   6   4  12   3   6   1  12
-Prediction: True | Full House | Actual: Full House | Hand 
+Prediction: True | Predicted: Full House | Actual: Full House | Hand 
         S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
 24977   3   4   1   4   2   4   2   6   3   6
 Accuracy on predicted data 0.996481407437501
@@ -65,7 +67,11 @@ Accuracy on test data 0.99671
 ```
 
 #### Description 
-This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.62% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points total to train and test the data. 
+This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.67% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points total to train and test the data. Below I describe how the data is represented in the output above:
+
+- "S#" represents what the suit of the card. (1 => Hearts, 2 => Spades, 3 => Diamonds, 4 => Clubs)
+- "C#" represents what card number the card is. (1 => Aces, 11 => Jacks, 12 => Queens, 13 => Kings, All other numbers are normal)
+
 #### Reason For Development 
 This is was the first time I created a neural network without following any tutorials online, and I was also curious to see how neural networks go about classifying different sets of numbers, and I found this poker hand classifier as an easy way to do so. 
 #### Room For Improvement
