@@ -48,16 +48,16 @@ The amount of data I used was very small (only a bit more than 300 datapoints), 
 ```python
  S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
 24586   1   4   3   3   4   4   1   3   2   4
-Prediction: False Straight | Actual: Nothing | Hand 
+Prediction: False | Straight | Actual: Nothing | Hand 
         S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
 24644   2  10   2  13   4  12   3  11   1   3
-Prediction: True Full House | Actual: Full House | Hand 
+Prediction: True | Full House | Actual: Full House | Hand 
         S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
 24665   1  10   3   3   3  10   2  10   4   3
-Prediction: True Full House | Actual: Full House | Hand 
+Prediction: True | Full House | Actual: Full House | Hand 
         S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
 24776   1   6   2   6   4  12   3   6   1  12
-Prediction: True Full House | Actual: Full House | Hand 
+Prediction: True | Full House | Actual: Full House | Hand 
         S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
 24977   3   4   1   4   2   4   2   6   3   6
 Accuracy on predicted data 0.996481407437501
