@@ -1,8 +1,8 @@
-__NOTE THIS IS STILL A WORK IN PROGRESS! WILL CONTINUE UPDATING THIS PORTFOLIO. I WILL BE CONTINUOUSLY UPDATING THIS PAGE AS I CREATE NEW PROJECTS IN THE FUTURE.__
-
 # Daniel's Personal Portfolio
 ## About Me and My Work
-Hello! My name is Ikechukwu Daniel Adebi, although I personally go by Daniel, and I am a member of MIT's class of 2022, majoring in Computer Science and Physics. This is my portfolio of projects I've worked on over the years. All of my work on this portfolio spans from 2016, all the way up til today, but I have been programming since 2013, when I was in eighth grade. In this portfolio, however, I will only be describing my work from 2016 to present day. 
+Hello! My name is Ikechukwu Daniel Adebi, although I personally go by Daniel, and I am a member of MIT's class of 2022, majoring in Computer Science and Physics. This is my portfolio of projects I've worked on over the years. All of my work on this portfolio spans from 2016, all the way up to today, but I have been programming since 2013, when I was in eighth grade. In this portfolio, however, I will only be describing my work from 2016 to present day.
+
+This page will be updated as I continue to create more projects. Enjoy!
 
 ### List of Projects 
 
@@ -12,8 +12,8 @@ Hello! My name is Ikechukwu Daniel Adebi, although I personally go by Daniel, an
 |[Poker Hand Classifier](#Poker-Hand-Classifier) | Python | Neural network that classifies different poker hands.| July 2019 |
 |[Stock Predictor](#Stock-Predictor) | Python | Machine Learning model that predicts stock prices.| June 2019 | 
 |[SSA Game Engine](#SSA-Game-Engine) | Java | 3D Game Engine I developed from scratch for my Independent Study in high school. (SSA = Simulation Software Analysis) | January 2018 - April 2018 |
-|[Chemistry Teaching Tool](#Chemistry-Teaching-Tool) | C# (Unity) | Chemistry Teaching Tool developed in Unity to teach high school students the fundamentals of chemistry. | January 2017 - May 2017 |
-|[Surgery Learning Tool](#Surgery-Learning-Tool) | C# (KINECT) | Program that uses the KINECT camera to track students hand movements to teach them how to perform surgeries. | January 2017 - May 2017 |
+|[Chemistry Learning Tool](#Chemistry-Learning-Tool) | C# (Unity) | Chemistry Learning Tool developed in Unity to teach high school students the fundamentals of chemistry. | January 2017 - May 2017 |
+|[Surgery Learning Tool](#Surgery-Learning-Tool) | C# (Kinect) | Program that uses the Kinect camera to track students hand movements to teach them how to perform surgeries. | January 2017 - May 2017 |
 |[Expedition of the Cosmos](#Expedition-of-the-Cosmos) | C# (XNA) | Video game that simulates motion from all planets from Earth to Neptune. Motion data modeled using Wolfram Mathematica. | September 2016 - December 2016 |
 
 ## Projects 
@@ -22,6 +22,15 @@ Hello! My name is Ikechukwu Daniel Adebi, although I personally go by Daniel, an
 <p align="center">
   <img src="other_materials/ibm.png" alt="IBM" width="250" />  
 </p>
+
+#### Results/Output:
+```python
+X train size: 244
+X test size: 62
+Y train size: 244
+Y test size: 62
+testing success ratio: 0.7940645161290323
+```
 
 #### Description
 This program is a quantum support vector machine that runs on IBM's QASM simulator, where QASM is a programming language for formally defining a quantum systems. This model takes in breast cancer data from the years 1958-1970 and determines whether or not someone lived more than 5 years after they have been diagnosed. This program uses the Qiskit library to run, and the survival date comes from UCI's machine learning repository.
@@ -35,8 +44,35 @@ The amount of data I used was very small (only a bit more than 300 datapoints), 
 ### Poker Hand Classifier 
 <p align="center"><img src="other_materials/10h-9d-8s-6c-2h.png" alt="Poker Hand" width="400" /> </p>
 
+#### Results/Output
+```python
+
+...
+        S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
+24586   1   4   3   3   4   4   1   3   2   4
+Prediction: False | Predicted: Straight | Actual: Nothing | Hand 
+        S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
+24644   2  10   2  13   4  12   3  11   1   3
+Prediction: True | Predicted: Full House | Actual: Full House | Hand 
+        S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
+24665   1  10   3   3   3  10   2  10   4   3
+Prediction: True | Predicted: Full House | Actual: Full House | Hand 
+        S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
+24776   1   6   2   6   4  12   3   6   1  12
+Prediction: True | Predicted: Full House | Actual: Full House | Hand 
+        S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
+24977   3   4   1   4   2   4   2   6   3   6
+Accuracy on test data: 0.99671
+Accuracy on predicted data: 0.996481407437501
+```
+
 #### Description 
-This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.62% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points total to train and test the data. 
+This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.67% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points in total to train and test the data (800,000 to train, and 200,000 to test). I also used this model to predict an extra 25,000 hands to make sure it was accurate with unfamiliar input. Below I describe how the data is represented in the output above:
+
+- "#" corresponds to which specific card is being referred to in a given hand. (Ranges from 1-5)
+- "S#" represents what suit the card is. (1 => Hearts, 2 => Spades, 3 => Diamonds, 4 => Clubs)
+- "C#" represents what rank the card is. (1 => Aces, 11 => Jacks, 12 => Queens, 13 => Kings, All other numbers are normal)
+
 #### Reason For Development 
 This is was the first time I created a neural network without following any tutorials online, and I was also curious to see how neural networks go about classifying different sets of numbers, and I found this poker hand classifier as an easy way to do so. 
 #### Room For Improvement
@@ -64,36 +100,55 @@ This model was rather difficult to determine how accurate it was, considering th
 #### Description
 I developed a 3D game engine for an independent study I did in my senior year of high school. I used various youtube tutorials to help me along the way. The engine is capable of simulating real world physics and is also highly customizable. 
 #### Reason For Develepment
-The independent study was called "Simulation Software Analysis", or SSA, because for the entire year, I studied different types of simulation software. I decided to make a game engine in particular because at the time, most of my programming was for video game purposes, and I wanted to learn more about the environments I would be developing in. 
+The independent study I did for this project was called "Simulation Software Analysis", or SSA, because for the entire year, I studied different types of simulation software. I decided to make a game engine in particular for the final part of this independent study because at the time, most of my programming experience and interest came from video games, and I wanted to learn more about the environments I was developing in. 
 #### Room For Improvement
 I feel that I could have made the engine more intuitive and simpler to use, because as of right now, while I feel that I did a pretty good job at structuring and organizing my code, I may have condensed processes like rendering to a point where there isn't much flexibility or freedom to change much about its process.
 
 [Back to Projects](#List-of-Projects)
 
-### Chemistry Teaching Tool
+### Chemistry Learning Tool
+<p align="center"> <img src="other_materials/CLT.png" alt="CLT" width="350" /> </p> 
+<p align="center"> <img src="other_materials/CLT2.gif" alt="CLT2" width="400" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/CLT3.gif" alt="CLT3" width="400" /></p>
+
 #### Description
-
+The Chemistry Learning Tool is a program I developed to teach high school students introductory level chemistry. It covers topics like atomic structure, periodicity, bonding, and others. This tool helped sophomores and juniors in my grade study for their chemistry exams.
 #### Reason For Develepment
-
+In high school, I found chemistry to be a pretty easy subject for me to learn. But I found that many of my classmates struggled in class for various reasons, whether it was because they weren't able to remember all of the correct electron configurations, or if they just could not figure out how different atoms bonded with each other. So I developed this program to help my classmates and friends better understand the material. 
 #### Room For Improvement
+A lot of the information in this program is just text listed in paragraph form, rather than in clearer and more concise bullet points or sections. Shorter text would also allow for students to better absorb the information they are provided, rather than being forced to read through texts that's similar to the textbooks. I also was not able to cover all topics covered in our Chemistry classes, so I could have covered more specific topics like different kinds of chemical reactions, and displayed animations or visuals of these concepts. 
 
 [Back to Projects](#List-of-Projects)
 
 ### Surgery Learning Tool
+<p align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg1.png" alt="surg1" width="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg2.png" alt="surg2" width="300" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/surg3.png" alt="surg3" width="225" /></p>
+
+__Demonstration__: (NOTE: video does not display actual project, but it does display my demonstration of the project to a certified orthopaedic surgeon, Dr. William Mackenzie of Nemours A.I. Dupont Children's Hospital in Wilmington, Delaware.)
+
+[Link to Demonstration/Presentation](https://drive.google.com/open?id=0B90WXoM2aiWeOTBLb0N3UkFQR2c)
+
 #### Description
+The Surgery Learning Tool is a program designed for the Kinect console to teach students how to perform different kinds of surgery. This program teaches you how to perform diffferent types of surgeries, step by step. There are three types of surgery this program focuses on, and these are orthopedic, plastic, and cancer removal surgeries. 
 
 #### Reason For Develepment
+I developed this program for my computer science project in my junior year of high school. We had to develop a program that was able to teach other people how to do certain tasks through the use of human movement (hence the reason I used the Kinect console). At this time, I was also interested in learning more about the medical field, and more specifically, how surgeries are performed. So I decided to spend time to do some research with these topics and developed this program.
 
 #### Room For Improvement
+There were challenges I faced working with the limitations of the Kinect console itself, and how well it could detect the user's hands while they're performing the surgery. When the user had to perform specific cuts, there were times I was unable to detect the user accurately enough, as the Kinect camera we were provided could only detect the user's hands and not anything more specific like their fingers. 
 
 [Back to Projects](#List-of-Projects)
 
 ### Expedition of the Cosmos
+<p align="center"> <img src="other_materials/eotc1.gif" alt="EotC1" width="350" /> </p> 
+<p align="center"> <img src="other_materials/EotC2.gif" alt="EotC2" width="300" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="other_materials/EotC3.gif" alt="EotC3" width="300" /></p>
+
 #### Description
+Expedition of the Cosmos is a 3D space simulation game, where the objective is to exit the solar system from Earth by only using asteroids as a fuel source. This game is a simulation because it models the planetary movements of the solar system in real life (with accurate time scale as well), and I gathered data to model the planetary orbits using Wolfram Mathematica. All 3D models were also made by me using Autodesk Maya.
 
 #### Reason For Develepment
+I have always been, and still am, interested in space and astronomy, so I wanted to make a game based off of these topics. This project was also the first complete game I developed from scratch, so I wanted to see how far I could push my programming skills with my knowledge I had at the time, and I thought a fun way to do this was through video games.
 
 #### Room For Improvement
+The functions I developed to model the planetary movements were based off of their locations away from Earth (since the player starts from this point), rather than the Sun, which most likely resulted in a less accurate depiction on how the planets actually moved. Also for a good majority of gameplay, the game itself is rather boring, as you are really just traveling through space with not much to avoid or attack, so while I did try to focus on achieving realism in this project, I feel that I still could have at least made the game a little bit more fun. 
 
 [Back to Projects](#List-of-Projects)
 
