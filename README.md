@@ -23,6 +23,15 @@ This page will be updated as I continue to create more projects. Enjoy!
   <img src="other_materials/ibm.png" alt="IBM" width="250" />  
 </p>
 
+#### Results:
+```python
+X train size: 244
+X test size: 62
+Y train size: 244
+Y test size: 62
+testing success ratio:  0.7940645161290323
+```
+
 #### Description
 This program is a quantum support vector machine that runs on IBM's QASM simulator, where QASM is a programming language for formally defining a quantum systems. This model takes in breast cancer data from the years 1958-1970 and determines whether or not someone lived more than 5 years after they have been diagnosed. This program uses the Qiskit library to run, and the survival date comes from UCI's machine learning repository.
 #### Reason For Develepment
