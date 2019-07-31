@@ -69,8 +69,8 @@ Accuracy on test data 0.99671
 #### Description 
 This program is a neural network that is able to identify poker hands with over 99% accuracy (best model was 99.67% accurate). I used the UCI machine learning repository to gather data to train this model, and ended up using over 1,000,000 data points total to train and test the data. Below I describe how the data is represented in the output above:
 
-- "S#" represents what the suit of the card. (1 => Hearts, 2 => Spades, 3 => Diamonds, 4 => Clubs)
-- "C#" represents what card number the card is. (1 => Aces, 11 => Jacks, 12 => Queens, 13 => Kings, All other numbers are normal)
+- "S#" represents what suit the card is. (1 => Hearts, 2 => Spades, 3 => Diamonds, 4 => Clubs)
+- "C#" represents what rank the card is. (1 => Aces, 11 => Jacks, 12 => Queens, 13 => Kings, All other numbers are normal)
 
 #### Reason For Development 
 This is was the first time I created a neural network without following any tutorials online, and I was also curious to see how neural networks go about classifying different sets of numbers, and I found this poker hand classifier as an easy way to do so. 
