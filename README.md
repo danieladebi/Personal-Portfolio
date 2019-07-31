@@ -115,7 +115,7 @@ This is a machine learning model that takes in the prices of each stock in the S
 #### Reason For Development 
 Well, besides trying to get rich fast, I wanted to learn how to work with and process time-series data. While I don't have the strongest interest in finance, I do find stocks to be rather interesting, so I decided to see what I could do trying to predict them. 
 #### Room For Improvement
-This model was rather difficult to determine how accurate it was, considering that it decided to hold stock shares for the majority of the timeline. And when the model made the decision to buy or sell, it usually made the right choice, but there were occasions where it would miss major profits, and some stocks resulted in negative returns altogether. If I could remake this model, I would probably focus on a few stocks (or even just one) at a time, and train the model to maximize returns for those stocks only rather than trying to go for 500 at once.
+This model was rather difficult to determine how accurate it was, considering that it decided to hold stock shares for the majority of the timeline. For predicting 7 days in advance, I did manage to get an accuracy of about 42%, which wasn't as great as I was hoping. And when the model made the decision to buy or sell, it usually made the right choice, but there were occasions where it would miss major profits, and some stocks resulted in negative returns altogether. If I could remake this model, I would probably focus on a few stocks (or even just one) at a time, and train the model to maximize returns for those stocks only rather than trying to go for 500 at once.
 
 [Back to Projects](#List-of-Projects)
 
