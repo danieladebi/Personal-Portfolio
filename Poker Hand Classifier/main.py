@@ -59,6 +59,9 @@ model = keras.models.load_model("poker_model.h5")
 
 test_loss, acc = model.evaluate(X_test.values, y_test.values)
 
+accuracy_per_hand = {}
+for hand in hands:
+    accuracy_per_hand[hand] = 0
 
 def predict_model(model, X_test, y_test):
     predicted = model.predict(X_test)
@@ -68,10 +71,29 @@ def predict_model(model, X_test, y_test):
             print("Prediction:", np.argmax(p)==y, "| Predicted:", hands[np.argmax(p)], "| Actual:", hands[y], "| Hand \n", X_test[x:x+1])
         if np.argmax(p) == y:
             model_acc += 1/len(X_test)
+            accuracy_per_hand[y] += 1/Counter(poker_data[predict])[y]
     print("Accuracy on predicted data:", model_acc)
-
 
 predict_model(model, poker_data.drop(["CLASS"], 1), poker_data["CLASS"])
 #model.predict(poker_data.drop(["CLASS"],1)))
 
+from pprint import pprint
+import matplotlib.pyplot as plt
 print("Accuracy on test data:", acc)
+print("Accuracy per hand:")
+pprint(accuracy_per_hand)
+
+hand_names = [value for value in hands.values()]
+plt.title("Distribution of 1,000,000 hands")
+plt.barh(hand_names, Counter(test_poker_data[predict]).values(), color="r")
+plt.ylabel("Hands")
+plt.xlabel("Count")
+plt.style.use('ggplot')
+
+plt.show()
+
+plt.title("Model Accuracy Per Hand")
+plt.barh(hand_names, accuracy_per_hand.values(), color="b")
+plt.ylabel("Hands")
+plt.xlabel("Accuracy")
+plt.show()
