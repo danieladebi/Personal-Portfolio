@@ -82,7 +82,7 @@ For example, flushes were virtually impossible for my program to detect because 
 
 Below is a data and accuracy distribution so you get a clearer picture of what I'm describing.
 ```
-Count per hand (for 1,000,000 data points):
+Count per hand (for 1,000,000 hands):
 
 {"Nothing 0": 501209, 
  "One Pair 1": 422498, 
