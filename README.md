@@ -62,6 +62,7 @@ Prediction: True | Predicted: Full House | Actual: Full House | Hand
 Prediction: True | Predicted: Full House | Actual: Full House | Hand 
         S1  C1  S2  C2  S3  C3  S4  C4  S5  C5
 24977   3   4   1   4   2   4   2   6   3   6
+
 Accuracy on test data: 0.99671
 Accuracy on predicted data: 0.996481407437501
 ```
